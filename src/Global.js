@@ -16,6 +16,7 @@ background-color: #f7fafc;
 margin: 0;
 font-size: 1rem;
 font-family: 'Red Hat Display', sans-serif;
+color: #191919;
 /* font-family: 'Poppins', sans-serif; */
 
 
