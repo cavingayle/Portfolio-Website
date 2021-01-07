@@ -12,6 +12,7 @@ const Footer = () => {
               <MenuItems>
                 <a
                   target="_blank"
+                  rel="noreferrer"
                   href="https://www.linkedin.com/in/cavingayle"
                   aria-label="Linkedin"
                 >
@@ -35,6 +36,7 @@ const Footer = () => {
               <MenuItems>
                 <a
                   target="_blank"
+                  rel="noreferrer"
                   href="https://twitter.com/cavin_gayle"
                   aria-label="Twitter"
                 >
@@ -54,7 +56,12 @@ const Footer = () => {
                 </a>
               </MenuItems>
               <MenuItems>
-                <a href="https://github.com/cavingayle" target="_blank" aria-label="GitHub">
+                <a
+                  href="https://github.com/cavingayle"
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label="GitHub"
+                >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     role="img"
