@@ -119,10 +119,10 @@ const About = () => {
         </ImageContainer>
         <TextContainer>
           <p>
-            I'm a Web Developer with focused on crafting great digital
+            I'm a Web Developer focused on crafting great digital
             experiences. I’ve been always someone who has enjoyed
             bringing ideas to life regardless of the medium. For me code is
-            another tool for me to do just that. When im not programming you
+            another tool to do just that. When im not programming you
             can find me improving my reading spead, learning spanish or watching
             anime.
           </p>
