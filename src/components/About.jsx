@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const About = () => {
   return (
-    <MainContainer id='about'>
+    <MainContainer id="about">
       <Container>
         <h2>About Me</h2>
 
@@ -119,16 +119,12 @@ const About = () => {
         </ImageContainer>
         <TextContainer>
           <p>
-            I’m a Software Engineer. I studied Computer Science Engineering in
-            Puttur,Mangalore, worked in innovative startups and Free Software
-            Organizations. I’m interested in the whole visual part of the web,
-            its usability, performance and accessibility. My surname is
-            Mascarenhas ([maska'ɾeɲɐs] or [maʃka'ɾeɲɐʃ]), a habitational name
-            taken on from a civil parish in Portugal called Mascarenhas. This
-            name is branched to Spain and is also found in India particularly in
-            Goa and Mangalore, where it was taken by Portuguese colonists. I've
-            lived on planet earth for 22 years and have worked on the web for 2
-            of them.{" "}
+            I'm a Web Developer with focused on crafting great digital
+            experiences. I’ve been always someone who has enjoyed
+            bringing ideas to life regardless of the medium. For me code is
+            another tool for me to do just that. When im not programming you
+            can find me improving my reading spead, learning spanish or watching
+            anime.
           </p>
         </TextContainer>
       </Container>
@@ -144,7 +140,7 @@ const MainContainer = styled.div`
   background: #f2f2f2;
 `;
 const Container = styled.div`
-max-width: 1024px;
+  max-width: 1024px;
   width: 75%;
   margin: 0 auto;
   h2 {
@@ -159,7 +155,7 @@ const TextContainer = styled.div`
 `;
 
 const ImageContainer = styled.div`
-margin-bottom: 2rem;
+  margin-bottom: 2rem;
   svg {
     height: 200px;
     width: 200px;

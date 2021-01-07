@@ -54,7 +54,7 @@ const Footer = () => {
                 </a>
               </MenuItems>
               <MenuItems>
-                <a href="https://github.com/cavingayle" aria-label="GitHub">
+                <a href="https://github.com/cavingayle" target="_blank" aria-label="GitHub">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     role="img"

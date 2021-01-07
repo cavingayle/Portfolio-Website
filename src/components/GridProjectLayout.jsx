@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import ProjectCard from "./ProjectCard";
-import { projectData } from "./Data";
+import { projectData } from "./ProjectData";
 
 const GridProjectLayout = () => {
   const cardMap = projectData.map((proj) => <ProjectCard {...proj} />);
