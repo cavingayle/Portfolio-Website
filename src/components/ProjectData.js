@@ -14,6 +14,14 @@ export const projectData = [
     liveLink:'http://142.93.253.118:4003/#/'
 
   },
+  {
+    projectTitle:'Lang Fit',
+    projectDescription:'Designed and developed a very clean and simple mock fitness website',
+    projectTech: ['React', 'Styled Components', 'React Icons', 'React Router', ],
+    githubLink:'https://github.com/cavingayle/Fitness-Website',
+    liveLink:'https://langfitness.netlify.app/'
+
+  },
     {
     projectTitle:'Component Library',
     projectDescription:'Constructed reusable components utilizing react best practices in order build a component library',
@@ -22,13 +30,6 @@ export const projectData = [
     liveLink:'https://5fd9716c9a2cde16086753e3--buttons-storybook.netlify.app/?path=/story/main-button--template'
 
   },
-    {
-    projectTitle:'Lang Fit',
-    projectDescription:'Designed and developed a very clean and simple mock fitness website',
-    projectTech: ['React', 'Styled Components', 'React Icons', 'React Router', ],
-    githubLink:'https://github.com/cavingayle/Fitness-Website',
-    liveLink:'https://langfitness.netlify.app/'
-
-  },
+   
   
   ]
