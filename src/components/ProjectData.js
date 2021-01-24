@@ -21,6 +21,14 @@ export const projectData = [
     githubLink:'https://github.com/cavingayle/Storybook-StyledComponents',
     liveLink:'https://5fd9716c9a2cde16086753e3--buttons-storybook.netlify.app/?path=/story/main-button--template'
 
-  }
+  },
+    {
+    projectTitle:'Lang Fit',
+    projectDescription:'Designed and developed a very clean and simple mock fitness website',
+    projectTech: ['React', 'Styled Components', 'React Icons', 'React Router', ],
+    githubLink:'https://github.com/cavingayle/Fitness-Website',
+    liveLink:'https://langfitness.netlify.app/'
+
+  },
   
   ]
