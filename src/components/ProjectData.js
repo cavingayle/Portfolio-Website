@@ -21,7 +21,7 @@ export const projectData = [
       'Redux',
     ],
     githubLink: 'https://github.com/cavingayle/dev-personal-project/',
-    liveLink: '',
+    liveLink: 'https://github.com/cavingayle/dev-personal-project/',
   },
   {
     projectTitle: 'Vintage Shop',
@@ -46,5 +46,14 @@ export const projectData = [
     githubLink: 'https://github.com/cavingayle/Storybook-StyledComponents',
     liveLink:
       'https://5fd9716c9a2cde16086753e3--buttons-storybook.netlify.app/?path=/story/main-button--template',
+  },
+  {
+    projectTitle: 'Weather Extension',
+    projectDescription:
+      'Built a Chrome based weather extension that allows users to see the weather in multiple cities',
+    projectTech: ['TypeScript', 'React', 'OpenWeather API', 'Material UI'],
+    githubLink: 'https://github.com/cavingayle/weather-ext',
+    liveLink:
+      'https://github.com/cavingayle/weather-ext',
   },
 ]
