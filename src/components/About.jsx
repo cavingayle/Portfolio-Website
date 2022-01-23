@@ -17,7 +17,7 @@ const About = () => {
             experiences. I’ve been always someone who has enjoyed
             bringing ideas to life regardless of the medium. For me code is
             another tool to do just that. When im not programming you
-            can find me improving my reading spead, learning spanish or watching
+            can find me improving my reading speed, learning spanish or watching
             anime.
           </p>
         </TextContainer>
