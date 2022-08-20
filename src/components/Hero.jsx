@@ -12,6 +12,11 @@ const Hero = () => {
           <MenuContainer>
             <Menu>
               <MenuItems>
+                <a href="https://google.com" target="_blank" rel="noreferrer">
+                  Resume
+                </a>
+              </MenuItems>
+              <MenuItems>
                 <Link to="about" spy={true} smooth={true}>
                   About
                 </Link>
@@ -30,7 +35,7 @@ const Hero = () => {
         <Firstline>Hi,</Firstline>
         <h1>I'm Cavin Gayle</h1>
         <BottomText>
-          <Type />{" "}
+          <Type />{' '}
         </BottomText>
         <div></div>
       </Container>
@@ -40,7 +45,7 @@ const Hero = () => {
         </OutsideArrow>
       </Arrow>
     </MainContainer>
-  );
+  )
 };
 
 export default Hero;
@@ -97,7 +102,14 @@ const MenuItems = styled.li`
   position: relative;
   margin-top: 1rem;
   cursor: pointer;
-`;
+  a,
+  a:hover,
+  a:focus,
+  a:active {
+    text-decoration: none;
+    color: inherit;
+  }
+`
 const MenuContainer = styled.div``;
 
 const Logo = styled.span`
