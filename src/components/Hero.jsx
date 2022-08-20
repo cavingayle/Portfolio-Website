@@ -12,7 +12,11 @@ const Hero = () => {
           <MenuContainer>
             <Menu>
               <MenuItems>
-                <a href="https://google.com" target="_blank" rel="noreferrer">
+                <a
+                  href="https://docs.google.com/document/d/e/2PACX-1vRFbyq8ArdlvHzE21oKvnzcvT8qAjR0OO_fl2TSh1qthEB0Gz1HThSxcD3MnIIOzyyP9K8oe8Ggxa55/pub"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Resume
                 </a>
               </MenuItems>
