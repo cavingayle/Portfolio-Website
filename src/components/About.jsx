@@ -14,9 +14,9 @@ const About = () => {
         <TextContainer>
           <p>
             I'm a Web Developer focused on crafting great digital
-            experiences. I’ve been always someone who has enjoyed
+            experiences. I’ve always been someone who has enjoyed
             bringing ideas to life regardless of the medium. For me code is
-            another tool to do just that. When im not programming you
+            another tool to do just that. When I'm not programming you
             can find me improving my reading speed, learning spanish or watching
             anime.
           </p>
